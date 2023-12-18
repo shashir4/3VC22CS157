@@ -1,1 +1,3 @@
 # 3VC22CS157
+THIS IS MY FIRST REPOSITORTY
+author shashirekha
